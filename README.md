@@ -23,7 +23,7 @@ Para consultas, comuníquese al teléfono: **+51 944 231 056**
 ## 📥 Descarga del Certificado
 
 Descarga la versión en PDF del certificado:  
-- [Descargar Certificado PDF](CERTIFICADOIAINANTEZANA.PDF)  
+- [Descargar Certificado PDF](files/CERTIFICADOIAINANTEZANA.PDF)  
 
 ---
 
