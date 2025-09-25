@@ -13,14 +13,15 @@
 </head>
 <body class="bg-gradient-to-br from-gray-100 via-gray-50 to-gray-200 flex items-center justify-center min-h-screen">
 
-  <div class="bg-white shadow-2xl rounded-3xl p-10 max-w-3xl w-full border border-gray-200 relative overflow-hidden">
+  <div class="bg-white shadow-2xl rounded-3xl p-10 max-w-5xl w-full border border-gray-200 overflow-hidden flex flex-col md:flex-row items-center md:items-start gap-8">
 
-    <!-- Logo de MasterGIS -->
-    <div class="flex justify-center mb-8">
-      <img src="logo.png" alt="Logo MasterGIS" class="h-20">
-    </div>
+    <!-- Izquierda: Información -->
+    <div class="flex-1 text-center md:text-left">
+      <!-- Logo -->
+      <div class="flex justify-center md:justify-start mb-6">
+        <img src="logo.png" alt="Logo MasterGIS" class="h-20">
+      </div>
 
-    <div class="text-center">
       <h1 class="text-3xl text-gray-800 mb-2">Certificado Verificado ✅</h1>
       <span class="text-green-600 font-semibold mb-6 inline-block">✔ Autenticidad Confirmada</span>
 
@@ -34,7 +35,7 @@
       </p>
 
       <!-- Botón de descarga PDF -->
-      <div class="mt-8">
+      <div class="mt-4">
         <a href="evans.pdf" download
            class="px-6 py-3 bg-indigo-600 text-white rounded-xl shadow-lg hover:bg-indigo-700 transition-all duration-300 inline-flex items-center gap-2">
            📥 Descargar Certificado PDF
@@ -46,7 +47,11 @@
         🌐 Visítanos: <a href="https://mastergis.com" class="text-indigo-600 hover:underline">https://mastergis.com</a><br>
         📞 Teléfono: +51 944 231 056
       </div>
+    </div>
 
+    <!-- Derecha: Imagen -->
+    <div class="flex-1 flex justify-center md:justify-end">
+      <img src="imagen.jpg" alt="Imagen lateral" class="rounded-xl shadow-lg max-h-80 object-contain">
     </div>
 
   </div>
