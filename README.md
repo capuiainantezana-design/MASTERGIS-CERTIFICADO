@@ -23,7 +23,13 @@ Para consultas, comuníquese al teléfono: **+51 944 231 056**
 ## 📥 Descarga del Certificado
 
 Descarga la versión en PDF del certificado:  
-- [Certificado PDF](evans.pdf)  
+- [Descargar Certificado PDF](evans.pdf)  
+
+---
+
+## 🖼 Imagen Lateral
+
+![Imagen lateral](imagen.jpg)
 
 ---
 
@@ -31,3 +37,7 @@ Descarga la versión en PDF del certificado:
 
 La validez de este certificado está garantizada únicamente a través de los canales oficiales de **MasterGIS**.  
 Para consultas adicionales, comuníquese con la institución emisora.
+
+---
+
+✍️ Repositorio creado para la demostración profesional de un certificado digital.
