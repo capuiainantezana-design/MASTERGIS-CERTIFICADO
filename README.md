@@ -1,6 +1,6 @@
 # 🎓 Certificado Digital Verificado
 
-Este repositorio contiene la información del certificado digital de **Antezana Geri Iain Evans**.
+Este repositorio contiene la información oficial del certificado digital de **Antezana Geri Iain Evans** emitido por **MasterGIS**.
 
 ---
 
@@ -23,17 +23,16 @@ Para consultas, comuníquese al teléfono: **+51 944 231 056**
 
 ## 📥 Descarga del Certificado
 
-Descarga la versión en PNG del certificado:  
-- [Certificado PNG](certificado.png)  
-*(Si agregas PDF, subirlo también y añadir el enlace)*
+Descarga la versión en PDF del certificado:  
+- [Certificado PDF](evans.pdf)  
 
 ---
 
 ## ⚠️ Nota de autenticidad
 
-La validez de este certificado está garantizada únicamente a través de los canales oficiales de MasterGIS.  
+La validez de este certificado está garantizada únicamente a través de los canales oficiales de **MasterGIS**.  
 Para consultas adicionales, comuníquese con la institución emisora.
 
 ---
 
-✍️ Repositorio creado con fines de demostración y profesionalización del certificado digital.
+✍️ Repositorio creado para la demostración profesional de un certificado digital.
