@@ -8,7 +8,6 @@ Este repositorio contiene la información oficial del certificado digital de **A
 
 - **Nombre:** Antezana Geri Iain Evans  
 - **Fecha de emisión:** 12 de febrero de 2024  
-- **Código único:** lora481 *(opcional)*  
 
 ---
 
@@ -32,7 +31,3 @@ Descarga la versión en PDF del certificado:
 
 La validez de este certificado está garantizada únicamente a través de los canales oficiales de **MasterGIS**.  
 Para consultas adicionales, comuníquese con la institución emisora.
-
----
-
-✍️ Repositorio creado para la demostración profesional de un certificado digital.
