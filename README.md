@@ -23,13 +23,13 @@ Para consultas, comuníquese al teléfono: **+51 944 231 056**
 ## 📥 Descarga del Certificado
 
 Descarga la versión en PDF del certificado:  
-- [Descargar Certificado PDF](evans.pdf)  
+- [Descargar Certificado PDF](CERTIFICADOIAINANTEZANA.PDF)  
 
 ---
 
-## 🖼 Imagen Lateral
+## 🖼 Imagen de verificación
 
-![Imagen lateral](imagen.jpg)
+![Imagen del certificado](imagen.jpg)
 
 ---
 
